@@ -1,20 +1,17 @@
 # Test Coding Elemes.id
 
 This website is a front-end developer coding test at Elemes group
-[Live Preview](https://elemes-test-murex.vercel.app/)
 
 ![alt](./cover.png)
 
 ## Installation
 
-Pertama, clone project pada repository:
 
 ```bash
 # Clone Repo
-git clone https://github.com/Rauliqbal/elemes-test.git
+git clone https://github.com/victorpreston/elemes-vue-test.git
 ```
 
-lalu instal dependencies :
 
 ```bash
 # npm
@@ -29,7 +26,6 @@ bun install
 
 ## Running Project
 
-Setelah instal Dependencies, jalankan project dengan masukan perintah :
 
 ```bash
 # npm
