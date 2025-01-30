@@ -41,25 +41,3 @@ pnpm dev
 # bun
 bun run dev
 ```
-
-lalu buka pada browser, masukan url `http://localhost:3000`
-
-## Production
-
-Pastikan project kamu harus berada pada Github
-
-buka website [vercel](https://vercel.com), lalu login., sesuaikan dengan keinginan.
-
-setelah masuk pada halaman dashboard Vercel, klik Tombol **Add New**, yang berada pada pojok kanan atas., lalu pilih **Project**
-
-![alt text](vercel-1.png)
-
-jika login menggunakan akun github maka sudah terhubung dengan github repository, jika belum terhubung dengan Github repository, silahkan di hubungkan terlebih dahulu.
-
-lalu pilih nama project nya, disini saya menamainnya dengen _elemes-test_, lalu klik import
-
-![alt text](vercel-2.png)
-
-Setelah itu tunggu sampe proses build selesai.
-
-DEVELOPMENT BY [Rauliqbal](https://rauliqbal.my.id)
