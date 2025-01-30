@@ -6,9 +6,9 @@
             <div class="w-[570px]">
                <img src="~/assets/images/nav-logo.png" alt="Logo Elemes" />
                <p class="text-sm text-secondary mt-4">
-                  Jl. Prof. DR. Satrio No.7, RT.3/RW.3, Karet Kuningan,
-                  Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus
-                  Ibukota Jakarta 12950
+                  Upper Hill, Nairobi, Mara Road, Off Ragati Road,
+                  P.O. Box 12345-00100, Upper Hill Estate,
+                  Nairobi City, Kenya
                </p>
                <div class="flex items-center gap-2 mt-[33px]">
                   <div
