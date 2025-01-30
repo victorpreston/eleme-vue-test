@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+   * {
+      @apply font-sans text-[#333];
+   }
+}
+
+@layer components {
+   .btn {
+      @apply inline-flex items-center px-[18px] py-[10px] text-sm font-medium;
+   }
+   .btn--rounded {
+      @apply rounded-full;
+   }
+   .btn--primary {
+      @apply bg-primary text-white;
+   }
+   .btn--shadow {
+      @apply shadow-[0px_8px_32px_0px_rgba(102,_107,_226,_0.35)];
+   }
+   .btn--secondary {
+      @apply bg-[#F2F2F2];
+   }
+}
